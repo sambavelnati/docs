@@ -1,6 +1,6 @@
-# Untitled
+# ECL PD Specification
 
-![D:\Sreeraj Working Folder\Surya-Logo.gif](.gitbook/assets/0.png)
+![](.gitbook/assets/0.png)
 
 **IFRS**
 
